@@ -1,5 +1,6 @@
 // soal 1
-let suhu = -101;
+
+let suhu = 0;
 let keadaan = "";
 
 if (suhu > 500 || suhu < -100) {
@@ -15,9 +16,9 @@ console.log(keadaan);
 
 // soal 2
 
-let kendaraan = "motor";
-let plat = "putih";
-let kecepatan = 1600;
+let kendaraan = "";
+let plat = "";
+let kecepatan = 0;
 let bbm = "";
 
 if (kendaraan == "motor" || plat == "kuning") {
